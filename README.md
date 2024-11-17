@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Jchow2!
+# 👋 Hi there, I'm Justin Chow!
 
-Welcome to my GitHub profile! I'm a passionate **Data Science Analyst** and **Machine Learning Enthusiast** with a knack for solving complex problems and turning data into actionable insights. 🚀 I specialize in predictive modeling, data visualization, and optimization techniques to deliver impactful solutions.
+Welcome to my GitHub profile! I am a **Business Intelligence and Analytics Specialist** with over two years of experience in extracting insights from data to drive business decisions. Recently, I’ve been revisiting my passion for **Data Science** and exploring the exciting world of **Machine Learning** as an enthusiast. My aspiration is to transition into a **Data Scientist** role, combining my analytical expertise with cutting-edge predictive modeling and data exploration techniques.
 
 ---
 
