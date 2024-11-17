@@ -1,17 +1,54 @@
-### About Me
-👋 I'm Justin Chow, a Master's candidate in Business Analytics at Santa Clara University.
+# 👋 Hi there, I'm Jchow2!
 
-### Interests
-👀 I'm passionate about business analytics and data science, and seeking a full-time data analyst or operations role in the healthcare and insurance industries.
+Welcome to my GitHub profile! I'm a passionate **Data Science Analyst** and **Machine Learning Enthusiast** with a knack for solving complex problems and turning data into actionable insights. 🚀 I specialize in predictive modeling, data visualization, and optimization techniques to deliver impactful solutions.
 
-### Current Projects
-🌱 I'm currently revisiting a previous build of a generative AI/LLM predictive model that helps overcome enterprise barriers and create real value for doctors.
+---
 
-### Collaboration
-💞️ I'm eager to contribute my skills in data analysis and project management to a small- to mid-size company focused on the healthcare and insurance industries.
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)&nbsp;
 
-### Contact Information
-📫 Reach me through my email address: jsjchow23@gmail.com
+---
+
+## 🏆 Featured Projects
+
+### 1. [MC Sauti Market Analysis Report](https://github.com/Jchow2/mc-sauti-market-analysis-report)
+**Overview**: A comprehensive data analysis of market trends and customer demographics for Sauti Market. This project highlights insights into trade behaviors and economic opportunities.
+
+### 2. [Python Gaming Anxiety - Classify Mentality](https://github.com/Jchow2/python-gaming-anxiety-classify-mentality)
+**Overview**: Machine learning classification project analyzing gaming-related anxiety. Explored psychological patterns using data preprocessing and model training techniques.
+
+### 3. [Health Insurance Cross-Sell Lead Prediction](https://github.com/Jchow2/python-health-insurance-cross-sell-lead)
+**Overview**: Developed predictive models to identify potential cross-sell opportunities for health insurance. Focused on feature engineering and optimizing classification algorithms.
+
+### 4. [Tesla Supercharger Location Optimization](https://github.com/Jchow2/tesla-supercharger-location-optimization)
+**Overview**: Geospatial analysis and optimization project to suggest the best locations for Tesla Superchargers using clustering techniques and location-based data.
+
+### 5. [Expedia Hotel Booking Searches](https://github.com/Jchow2/python-expedia-hotel-booking-searches)
+**Overview**: Analyzed booking search trends for Expedia, identifying patterns in customer preferences and behavior to improve marketing and operational strategies.
+
+---
+
+## 📊 GitHub Stats
+![Jchow2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchow2&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jchow2&layout=compact&theme=radical)](https://github.com/Jchow2)
+
+---
+
+## 🌟 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+> 🌱 *"Data is a puzzle, and I'm always eager to solve it!"*
 
 <!---
 Jchow2/Jchow2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
