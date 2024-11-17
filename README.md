@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Analyst** and **Ma
 ---
 
 ## 🌟 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/justinchow23/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)]([mailto:your.email@example.com](jsjchow23@gmail.com))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinchow23/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jsjchow23@gmail.com)
 
 ---
 
