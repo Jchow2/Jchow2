@@ -33,6 +33,9 @@ Welcome to my GitHub profile! I am a **Business Intelligence and Analytics Speci
 ### 5. [Expedia Hotel Booking Searches](https://github.com/Jchow2/python-expedia-hotel-booking-searches)
 **Overview**: Analyzed booking search trends for Expedia, identifying patterns in customer preferences and behavior to improve marketing and operational strategies.
 
+### 6. [Airline Flight Path Demand Analysis](https://github.com/Jchow2/R-airline-covid19)
+**Overview**: Explore how the COVID-19 pandemic impacted airline flight path demand. Using R, this project examines historical flight data, visualizes trends, and builds predictive models to better understand the changing landscape of air travel.
+
 ---
 
 ## 📊 GitHub Stats
