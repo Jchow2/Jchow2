@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a **Business Intelligence and Analytics Speci
 
 ## 🏆 Featured Projects
 
-### 1. [MC Sauti Market Analysis Report](https://github.com/Jchow2/mc-sauti-market-analysis-report)
+### 1. [Miller Center | Sauti East Africa - Digital Marketing Analysis](https://github.com/Jchow2/mc-sauti-market-analysis-report)
 **Overview**: A comprehensive data analysis of market trends and customer demographics for Sauti Market. This project highlights insights into trade behaviors and economic opportunities.
 
 ### 2. [Python Gaming Anxiety - Classify Mentality](https://github.com/Jchow2/python-gaming-anxiety-classify-mentality)
