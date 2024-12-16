@@ -18,23 +18,23 @@ Welcome to my GitHub profile! I am a **Business Intelligence and Analytics Speci
 
 ## 🏆 Featured Projects
 
-### 1. [Miller Center | Sauti East Africa - Digital Marketing Analysis](https://github.com/Jchow2/mc-sauti-market-analysis-report)
+### 1. [Sauti East Africa - Market Segmentation Analysis](https://github.com/Jchow2/mc-sauti-market-analysis-report)
 **Overview**: A comprehensive data analysis of market trends and customer demographics for Sauti Market. This project highlights insights into trade behaviors and economic opportunities.
 
-### 2. [Python Gaming Anxiety - Classify Mentality](https://github.com/Jchow2/python-gaming-anxiety-classify-mentality)
-**Overview**: Machine learning classification project analyzing gaming-related anxiety. Explored psychological patterns using data preprocessing and model training techniques.
-
-### 3. [Health Insurance Cross-Sell Lead Prediction](https://github.com/Jchow2/python-health-insurance-cross-sell-lead)
-**Overview**: Developed predictive models to identify potential cross-sell opportunities for health insurance. Focused on feature engineering and optimizing classification algorithms.
-
-### 4. [Tesla Supercharger Location Optimization](https://github.com/Jchow2/tesla-supercharger-location-optimization)
+### 2. [Tesla Supercharger Locations - EV Location Optimization Model](https://github.com/Jchow2/tesla-supercharger-location-optimization)
 **Overview**: Geospatial analysis and optimization project to suggest the best locations for Tesla Superchargers using clustering techniques and location-based data.
 
-### 5. [Expedia Hotel Booking Searches](https://github.com/Jchow2/python-expedia-hotel-booking-searches)
-**Overview**: Analyzed booking search trends for Expedia, identifying patterns in customer preferences and behavior to improve marketing and operational strategies.
+### 3. [WDI Agricultural Production - Emissions Regression Analysis](https://github.com/Jchow2/R-emissions-regression-analysis)
+**Overview**: Investigate how non-renewable energy usage impacts agricultural productivity across 60 countries, revealing through elastic regression models that an increase in CO2 emissions reduces agricultural production in the short term.
 
-### 6. [Airline Flight Path Demand Analysis](https://github.com/Jchow2/R-airline-covid19)
+### 4. [Alaska Airline - Flight Path Demand Analysis](https://github.com/Jchow2/R-airline-covid19)
 **Overview**: Explore how the COVID-19 pandemic impacted airline flight path demand. Using R, this project examines historical flight data, visualizes trends, and builds predictive models to better understand the changing landscape of air travel.
+
+### 5. [FinMan Health Insurance - Lead Prediction Model](https://github.com/Jchow2/python-health-insurance-cross-sell-lead)
+**Overview**: Hosted by the organization Analytics Vidhya, this exercise focused on developing lead prediction models to identify potential cross-sell opportunities for health insurance. Focused on feature engineering and optimizing classification algorithms.
+
+### 6. [Expedia Hotel Booking - Behavioral Trend Analysis](https://github.com/Jchow2/python-expedia-hotel-booking-searches)
+**Overview**: Analyzed booking search trends for Expedia, identifying patterns in customer preferences and behavior to improve marketing and operational strategies.
 
 ---
 
