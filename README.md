@@ -38,12 +38,6 @@ Welcome to my GitHub profile! I am a **Business Intelligence and Analytics Speci
 
 ---
 
-## 📊 GitHub Stats
-![Jchow2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchow2&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jchow2&layout=compact&theme=radical)](https://github.com/Jchow2)
-
----
-
 ## 🌟 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinchow23/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jsjchow23@gmail.com)
