@@ -27,9 +27,6 @@ Welcome to my GitHub profile! I am a **Business Intelligence and Analytics Speci
 ### 3. [Agricultural Emissions Regression Analysis](https://github.com/Jchow2/R-emissions-regression-analysis)
 **Overview**: Investigate how non-renewable energy usage impacts agricultural productivity across 60 countries, revealing through elastic regression models that an increase in CO2 emissions reduces agricultural production in the short term.
 
-### 4. [Alaska Airline Flight Path Demand Analysis](https://github.com/Jchow2/R-airline-covid19)
-**Overview**: Explore how the COVID-19 pandemic impacted airline flight path demand. Using R, this project examines historical flight data, visualizes trends, and builds predictive models to better understand the changing landscape of air travel.
-
 ---
 
 ## 🌟 Let's Connect
