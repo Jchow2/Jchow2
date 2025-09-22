@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Justin Chow!
 
-Welcome to my GitHub profile! I am a **Business Intelligence and Analytics Specialist** starting my career with extracting insights from data to drive business decisions. Recently, I have been revisiting my passion for **Data Science** and exploring the exciting world of **Machine Learning** as an enthusiast. My aspiration is to transition into a **Data Scientist** role, combining my analytical expertise with cutting-edge predictive modeling and data exploration techniques.
+Welcome to my GitHub profile! I am a Business Intelligence and Analytics Specialist, starting my career by extracting insights from leadership and hospital data to inform business decisions. Recently, I have been revisiting my passion for **Data Science** and exploring the exciting world of **Advanced Artificial Intelligence and Machine Learning** as an enthusiast. I aspire to transition into either a **Data Scientist** or **BI Analyst** role, combining my analytical expertise with cutting-edge predictive modeling and data exploration techniques.
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a **Business Intelligence and Analytics Speci
 **Overview**: A geospatial analysis and optimization model that suggests the best locations for EV superchargers using clustering techniques on location-based data from Tesla EV car drivers.
 
 ### 3. [Agricultural Emissions Regression Analysis](https://github.com/Jchow2/R-emissions-regression-analysis)
-**Overview**: Investigate how non-renewable energy usage impacts agricultural productivity across 60 countries, revealing through elastic regression models that an increase in CO2 emissions reduces agricultural production in the short term.
+**Overview**: Investigate how non-renewable energy usage impacts agricultural productivity across 60 countries, revealing through elastic regression models that an increase in CO2 emissions reduces agrarian production in the short term.
 
 ---
 
